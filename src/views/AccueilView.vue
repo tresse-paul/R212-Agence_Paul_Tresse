@@ -13,7 +13,7 @@
         :nbrSdb="2"
         :nbrC="4"
         surface="6x7.5"
-        image="../../src/assets/Image.jpg"
+        image="/src/assets/Image.jpg"
         location="2821 Lake Sevilla, Palm Harbor, TX"
       />
       <card
@@ -22,7 +22,7 @@
         :nbrSdb="2"
         :nbrC="4"
         surface="6x7"
-        image="../../src/assets/Image3.jpg"
+        image="/src/assets/Image3.jpg"
         location="2699 Green Valley, Highland Lake"
       />
       <card
@@ -31,7 +31,7 @@
         :nbrSdb="2"
         :nbrC="4"
         surface="6x7.5"
-        image="../../src/assets/Image2.jpg"
+        image="/src/assets/Image2.jpg.jpg"
         location="103 Lake Shores, Michigan, IN"
       />
     </div>
